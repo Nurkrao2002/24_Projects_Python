@@ -24,4 +24,3 @@ def weather(city):
 city=input("Enter the Name of Any City: ")
 city=city+" weather"
 weather(city)
-
