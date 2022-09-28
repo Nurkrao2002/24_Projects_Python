@@ -6,3 +6,4 @@ contours, hierarchy= cv2.findContours(edges.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN
 b= len(contours)
 print ("The number of boxes in this image: ", str(b))
 
+
